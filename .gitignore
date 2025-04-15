@@ -1,0 +1,6 @@
+venv/*
+*.csv
+*.tsv
+*.json
+*.zip
+catboost_info/*
